@@ -89,7 +89,7 @@ Agree as a team on the PHP, Node.js, and MySQL versions before development. Reco
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<team-or-organization>/fleetops-platform.git
+git clone https://github.com/archanadev-05/fleetops-platform.git
 cd fleetops-platform
 ```
 
