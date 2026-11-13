@@ -62,7 +62,7 @@ FleetOps is an academic group project of the **Faculty of Information Technology
 | 254191N | Samaraweera SARL | `feat/maintenance` | Maintenance management |
 | 254134U | Methsara KSS | `feat/dashboard-alerts-ui` | Dashboard, alerts, and interface |
 
-The full ownership map and presentation plan are in [`docs/team-work-split.md`](docs/team-work-split.md), and the member working agreement is in [`MEMBER-ASSIGNMENT.md`](MEMBER-ASSIGNMENT.md).
+The full ownership map and presentation plan are in [`docs/team-work-split.md`](docs/team-work-split.md).
 
 ## Key features
 
