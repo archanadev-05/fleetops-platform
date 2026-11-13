@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">FleetOps Platform</title>
+  <desc id="desc">A route and fleet mark beside the FleetOps Platform wordmark.</desc>
+  <defs>
+    <linearGradient id="route" x1="30" y1="30" x2="190" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#28D7B0"/>
+      <stop offset="1" stop-color="#16A6A5"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(20 20)">
+    <rect x="0" y="0" width="200" height="200" rx="48" fill="#10263D"/>
+    <path d="M45 145V91c0-29 19-48 48-48h10M155 55v47c0 29-19 48-48 48H91" fill="none" stroke="url(#route)" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="48" cy="145" r="13" fill="#F5FAFC"/>
+    <circle cx="152" cy="55" r="13" fill="#F5FAFC"/>
+    <path d="M82 92h38l14 16v22H68v-22l14-16Z" fill="#F5FAFC"/>
+    <path d="M89 99h24l9 10H80l9-10Z" fill="#16A6A5"/>
+    <circle cx="84" cy="130" r="6" fill="#10263D"/>
+    <circle cx="118" cy="130" r="6" fill="#10263D"/>
+  </g>
+  <text x="260" y="119" fill="#10263D" font-family="Inter, Avenir Next, Arial, sans-serif" font-size="78" font-weight="750" letter-spacing="-3">Fleet<tspan fill="#16A6A5">Ops</tspan></text>
+  <text x="266" y="166" fill="#617487" font-family="Inter, Avenir Next, Arial, sans-serif" font-size="23" font-weight="650" letter-spacing="6">PLATFORM</text>
+</svg>
