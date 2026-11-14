@@ -98,8 +98,8 @@ The presentation follows a single user journey, with each member covering one st
 | 1 | Member 1 | Signs in and explains the PHP and MySQL architecture, security setup, and roles. |
 | 2 | Member 2 | Adds or inspects a vehicle and shows the team directory. |
 | 3 | Member 3 | Assigns a vehicle and driver, demonstrates overlap rejection, and records fuel. |
-| 4 | Member 4 | Creates and advances a maintenance job and explains mileage-based service rules. |
-| 5 | Member 5 | Reviews dashboard totals, resolves an alert, and shows the responsive interface. |
+| 4 | Member 4 | Reviews dashboard totals, resolves an alert, and shows the responsive interface. |
+| 5 | Member 5 | Creates and advances a maintenance job and explains mileage-based service rules. |
 
 ## Demo environment
 
