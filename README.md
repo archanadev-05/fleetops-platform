@@ -59,8 +59,8 @@ FleetOps is an academic group project of the **Faculty of Information Technology
 | 254218G | Thanuwana PGA | `feat/auth-integration` | Authentication and project integration |
 | 254226E | Uthdeepana AKI | `feat/assignments-fuel` | Assignments and fuel management |
 | 254054A | Dilitha RK | `feat/fleet-people` | Fleet and people management |
-| 254191N | Samaraweera SARL | `feat/maintenance` | Maintenance management |
-| 254134U | Methsara KSS | `feat/dashboard-alerts-ui` | Dashboard, alerts, and interface |
+| 254191N | Samaraweera SARL | `feat/dashboard-alerts-ui` | Dashboard, alerts, and interface |
+| 254134U | Methsara KSS | `feat/maintenance` | Maintenance management |
 
 The full ownership map and presentation plan are in [`docs/team-work-split.md`](docs/team-work-split.md), and the member working agreement is in [`MEMBER-ASSIGNMENT.md`](MEMBER-ASSIGNMENT.md).
 
