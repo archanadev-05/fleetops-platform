@@ -416,6 +416,6 @@ If you deploy your own copy:
 
 No license has been specified for this repository. Please contact the project owner before reusing or redistributing the code beyond permitted educational or review purposes.
 
-**Live app:** https://fleetops-x5.wasmer.app/
-**Repository:** https://github.com/archanadev-05/fleetops-platform
-**Questions, `.env` requests, or feedback:** [archanathanuwana@gmail.com](mailto:archanathanuwana@gmail.com)
+- **Live app:** https://fleetops-x5.wasmer.app/
+- **Repository:** https://github.com/archanadev-05/fleetops-platform
+- **Questions, `.env` requests, or feedback:** [archanathanuwana@gmail.com](mailto:archanathanuwana@gmail.com)
