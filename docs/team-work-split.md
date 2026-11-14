@@ -53,19 +53,19 @@ The split gives each member a similar number of user-facing workflows and a clea
 - **Main files:** the assignment and fuel handlers and renderers in `public/index.php`.
 - **Presents:** creating a shift, showing an overlapping shift being rejected, then recording fuel and showing the odometer and cost history. Explains why availability and odometer checks run on the server.
 
-### Member 4: Maintenance and service rules
-**Samaraweera SARL (254191N)** · branch `feat/maintenance`
-
-- **Owns:** work orders (job cards), mechanic assignment, job status transitions, vehicle availability updates, service intervals, and due mileage.
-- **Main files:** the maintenance handlers and renderer in `public/index.php`.
-- **Presents:** adding a service rule and a job card, moving the job through its statuses, and showing the resulting vehicle availability and service odometer update.
-
-### Member 5: Dashboard, alerts, and interface
-**Methsara KSS (254134U)** · branch `feat/dashboard-alerts-ui`
+### Member 4: Dashboard, alerts, and interface
+**Samaraweera SARL (254191N)** · branch `feat/dashboard-alerts-ui`
 
 - **Owns:** the summary dashboard, open alerts and their resolution, responsive styling, interaction polish, and the operational walkthrough.
 - **Main files:** the dashboard and alert handlers and renderers in `public/index.php`, plus `public/assets/app.css` and `public/assets/app.js`.
 - **Presents:** the operational summary, monthly fuel totals, upcoming shifts, the maintenance queue, alert resolution, and the mobile layout.
+
+### Member 5: Maintenance and service rules
+**Methsara KSS (254134U)** · branch `feat/maintenance`
+
+- **Owns:** work orders (job cards), mechanic assignment, job status transitions, vehicle availability updates, service intervals, and due mileage.
+- **Main files:** the maintenance handlers and renderer in `public/index.php`.
+- **Presents:** adding a service rule and a job card, moving the job through its statuses, and showing the resulting vehicle availability and service odometer 
 
 ## Shared-file workflow
 
