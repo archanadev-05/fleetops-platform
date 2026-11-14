@@ -25,8 +25,8 @@ For the project overview and setup instructions, see the main [`README.md`](../R
 | 1 | 254218G | Thanuwana PGA | Integration and access | `feat/auth-integration` |
 | 2 | 254054A | Dilitha RK | Fleet and people | `feat/fleet-people` |
 | 3 | 254226E | Uthdeepana AKI | Assignments and fuel | `feat/assignments-fuel` |
-| 4 | 254191N | Samaraweera SARL | Maintenance and service rules | `feat/maintenance` |
-| 5 | 254134U | Methsara KSS | Dashboard, alerts, and interface | `feat/dashboard-alerts-ui` |
+| 4 | 254191N | Samaraweera SARL | Dashboard, alerts, and interface | `feat/dashboard-alerts-ui` |
+| 5 | 254134U | Methsara KSS | Maintenance and service rules | `feat/maintenance` |
 
 The split gives each member a similar number of user-facing workflows and a clear, self-contained demonstration.
 
